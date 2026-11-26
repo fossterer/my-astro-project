@@ -1,0 +1,15 @@
+{
+  "name": "my-astro-project",
+  "version": "1.0.0",
+  "description": "My First Astro project, setup manually i.e without using *npm create astro@latest* command",
+  "license": "MIT",
+  "author": "fossterer",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
